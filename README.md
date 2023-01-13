@@ -181,15 +181,19 @@ No se estaría cumpliendo del todo ya que como sabemos el teorema de máxima tra
 
 • Grafique la curva Potencia vs RL y comente.
 
-Calcular errores de las mediciones y comentar los resultados.
+![image](https://user-images.githubusercontent.com/117923992/212350397-2783bee0-4d90-4969-9b55-527d8b003f66.png)
+
+Como se puede observar el valor de potencia mas baja  se encuentra cuando RL  220 y en las resistencia de 470, 820,1.5k, 1.8k, 3.9k y 4.7k se encuentra encuentra en un valor estático de potencia, y como se puede observar en el diagrama realizado en la Resistencia de 1k y 2.2k se encuentra en la potencia maxima
 
       VIDEO
 
-LINK:
+LINK:https://youtu.be/_weZOTiS4oQ
 
-      CONCLUSIONES:
+ES:CONCLUSIONES:
 
-Como consecuencia de lo expuesto podemos llegar a una conclusión, la teoría de circuitos eléctricos, el teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente.
+Como consecuencia de lo expuesto podemos llegar a una conclusión, la teoría de circuitos eléctricos, el teorema de máxima transferencia de potencia establece que, dada una fuente, con una resistencia de fuente fijada de antemano, la resistencia de carga que maximiza la transferencia de potencia es aquella con un valor óhmico igual a la resistencia de fuente.https://youtu.be/_weZOTiS4oQ
+
+
 
 Del mismo modo el teorema establece cómo escoger (para maximizar la transferencia de potencia) la resistencia de carga, una vez que la resistencia de fuente ha sido fijada, no lo contrario. No dice cómo escoger la resistencia de fuente, una vez que la resistencia de carga ha sido fijada. Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
 

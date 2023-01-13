@@ -145,7 +145,19 @@ Anote los resultados medidos.
 ![image](https://user-images.githubusercontent.com/117923992/212216094-dce9c091-875c-4996-b125-108ac3125d78.png)
 
 
+![image](https://user-images.githubusercontent.com/117923992/212229284-818a937c-9d23-48db-8163-b517bc36a82b.png)
 
+![image](https://user-images.githubusercontent.com/117923992/212229338-fe2fa007-484f-41a2-969b-d68fe2f281d6.png)
+
+![image](https://user-images.githubusercontent.com/117923992/212229372-c2f82c97-6fd3-4ff0-a85a-6224b6eb37a8.png)
+
+![image](https://user-images.githubusercontent.com/117923992/212229392-fb8698a9-847d-473b-9763-bba7c6a41665.png)
+
+![image](https://user-images.githubusercontent.com/117923992/212229430-b8bd680e-af74-499b-b015-71d92c1384cc.png)
+
+![image](https://user-images.githubusercontent.com/117923992/212229451-2c8ad954-3d8a-49c6-a577-488a3d741bbd.png)
+
+![image](https://user-images.githubusercontent.com/117923992/212229469-1cf85a04-f9da-478f-9739-f7bb55bff1d7.png)
 
 
 
